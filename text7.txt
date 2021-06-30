@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Hi this is kavitha abburi
-=======
 Hi this is kavitha malineni
->>>>>>> d775c67 (k malineni)
+
